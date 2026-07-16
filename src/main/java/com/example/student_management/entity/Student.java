@@ -21,5 +21,5 @@ public class Student {
 
     private String address;
 
-    private String age;
+   private Integer age;
 }
